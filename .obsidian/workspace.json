@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "389935506a4fedbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f68a22866dc17a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c23ecdfbdcf536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 7/Software Project Management/PID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e536b0f1234890df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b64cfd64417f753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba5d48367b23f8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "434f67117b573e41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d3a3ce94a854a89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a585f560ac241b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f3d32410defd3b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06aeec2017ab2a7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 7/Software Project Management/PID.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cbba02bb32072a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 7/Software Project Management/PID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ff02e11d82bce44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ba073098f70aad4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 7/Software Project Management/PID.md"
+              }
+            }
+          },
+          {
+            "id": "089853904fe1faa4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "41c23ecdfbdcf536",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-01-02 22.36.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-02 22.36.52.excalidraw.png",
+    "Excalidraw/Drawing 2023-01-02 22.42.24.excalidraw.md",
+    "Semester 7/Software Project Management/PID.md",
+    "project work.md",
+    "Untitled.canvas",
+    "Pasted image 20221128071624.png",
+    "Pasted image 20221128071628.png",
+    "Pasted image 20221128071940.png"
+  ]
+}

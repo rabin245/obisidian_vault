@@ -1,0 +1,3 @@
+- defined as data about data
+- concise location of Data warehouse
+- https://www.tutorialspoint.com/dwh/dwh_metadata_concepts.htm

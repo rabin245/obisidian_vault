@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"2994d64a71a9f5e0","x":-32,"y":-19,"width":250,"height":79,"color":"1","type":"text","text":"Online Voting System"},
+		{"id":"879f1932f612cd58","x":-1272,"y":365,"width":250,"height":59,"type":"text","text":"User Signup"},
+		{"id":"1e516e9e0350fa17","x":-953,"y":365,"width":250,"height":60,"type":"text","text":"User login"},
+		{"id":"6cd1e773de5f7d9a","x":-811,"y":155,"width":250,"height":60,"type":"text","text":"User auth"},
+		{"id":"dc23d62fd4848d6d","x":-408,"y":155,"width":250,"height":97,"type":"text","text":"Election management"},
+		{"id":"8ecfa3df44cece2a","x":-658,"y":365,"width":250,"height":60,"type":"text","text":"Start election"},
+		{"id":"2cdf4092f06f0201","x":-58,"y":365,"width":250,"height":95,"type":"text","text":"Add and show election candidates"},
+		{"id":"83060827ae526c26","x":-367,"y":365,"width":250,"height":60,"type":"text","text":"End election"},
+		{"id":"4e37866427de03ad","x":218,"y":365,"width":250,"height":95,"type":"text","text":"Generate final results"},
+		{"id":"c165d9e9af31a525","x":858,"y":365,"width":250,"height":60,"type":"text","text":"Count vote"},
+		{"id":"14617a83b6c4af6c","x":858,"y":155,"width":250,"height":60,"type":"text","text":"Vote management"},
+		{"id":"fea79868a5cb51b8","x":548,"y":364,"width":250,"height":60,"type":"text","text":"User cast vote"},
+		{"id":"51c960f084aadd39","x":548,"y":155,"width":250,"height":60,"type":"text","text":"Vote casting"}
+	],
+	"edges":[
+		{"id":"88830d0729e5ba59","fromNode":"2994d64a71a9f5e0","fromSide":"bottom","toNode":"6cd1e773de5f7d9a","toSide":"top"},
+		{"id":"d8ba39ffe9884d32","fromNode":"2994d64a71a9f5e0","fromSide":"bottom","toNode":"dc23d62fd4848d6d","toSide":"right"},
+		{"id":"3c32d4c9f908bce2","fromNode":"2994d64a71a9f5e0","fromSide":"bottom","toNode":"14617a83b6c4af6c","toSide":"top"},
+		{"id":"dd2587993a71e6c2","fromNode":"6cd1e773de5f7d9a","fromSide":"bottom","toNode":"879f1932f612cd58","toSide":"top"},
+		{"id":"a6ed6622be82948e","fromNode":"6cd1e773de5f7d9a","fromSide":"bottom","toNode":"1e516e9e0350fa17","toSide":"top"},
+		{"id":"e57508367db67dbb","fromNode":"dc23d62fd4848d6d","fromSide":"bottom","toNode":"8ecfa3df44cece2a","toSide":"top"},
+		{"id":"90dd8776735e6102","fromNode":"dc23d62fd4848d6d","fromSide":"bottom","toNode":"83060827ae526c26","toSide":"top"},
+		{"id":"cf343036f6801ad2","fromNode":"dc23d62fd4848d6d","fromSide":"bottom","toNode":"2cdf4092f06f0201","toSide":"top"},
+		{"id":"662faa3f9936de55","fromNode":"2994d64a71a9f5e0","fromSide":"bottom","toNode":"51c960f084aadd39","toSide":"left"},
+		{"id":"6c7cfa06c7916ed7","fromNode":"51c960f084aadd39","fromSide":"bottom","toNode":"fea79868a5cb51b8","toSide":"top"},
+		{"id":"890bc34b6d3b1bfd","fromNode":"14617a83b6c4af6c","fromSide":"bottom","toNode":"c165d9e9af31a525","toSide":"top"},
+		{"id":"19998d6f6f809f1c","fromNode":"dc23d62fd4848d6d","fromSide":"bottom","toNode":"4e37866427de03ad","toSide":"top"}
+	]
+}
